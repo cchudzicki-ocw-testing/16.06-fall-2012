@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Acclimating Students to Active Learning
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Adjusting to Active Learning
 uid: 1539a00e-7264-5571-9ba9-1fae9e0214b0

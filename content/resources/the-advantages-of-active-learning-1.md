@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: The Advantages of Active Learning
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: The Advantages of Active Learning
 uid: 37d66aa2-effa-3e7f-fb40-e8c42e7d38c0

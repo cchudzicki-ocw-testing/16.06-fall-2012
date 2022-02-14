@@ -3,7 +3,9 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-06-principles-of-automatic-control-fall-2012/220aafe705265af188e629ffbeebfb44_Ug6DYV6za-k.srt
 file_type: application/x-subrip
+learning_resource_types: []
 resourcetype: Other
 title: 3play caption file
+type: OCWFile
 uid: 220aafe7-0526-5af1-88e6-29ffbeebfb44
 ---

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: The Experience of Teaching an Active Learning Recitation
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Transitioning From a Lecturer to a Coach
 uid: 3f8e2752-2218-af4d-6a5f-aacde9d1a1b8

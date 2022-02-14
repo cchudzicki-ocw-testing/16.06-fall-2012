@@ -1,9 +1,12 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 0c83e7ab-b911-a490-9f77-5c8b6f18ba76
 title: The Advantages of Active Learning
+type: CourseSection
 uid: 5e0124de-09dd-c33f-d814-26341e08fa9d
 ---
 
