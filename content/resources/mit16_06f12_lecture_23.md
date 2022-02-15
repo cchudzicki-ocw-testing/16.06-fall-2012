@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 16.06 Principles of Automatic Control, Lecture 23
-type: OCWFile
 uid: abb629fb-7c2e-395e-e8c6-df58d4754329
 ---

@@ -9,6 +9,5 @@ parent_title: Recitations
 parent_type: CourseSection
 resourcetype: Document
 title: 16.06 Principles of Automatic Control, Recitation 9
-type: OCWFile
 uid: dafc6b8f-9a3f-3c16-b877-5ab56573f4de
 ---

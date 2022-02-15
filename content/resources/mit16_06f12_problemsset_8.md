@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 16.06 Principles of Automatic Control, Problem Set 8
-type: OCWFile
 uid: 409bd923-625e-2cb0-527a-95c0f674260d
 ---

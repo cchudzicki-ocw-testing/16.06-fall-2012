@@ -12,6 +12,5 @@ parent_title: Adapting the Classroom for Active Learning
 parent_type: CourseSection
 resourcetype: Image
 title: tlp_2_photo.jpg
-type: OCWImage
 uid: 1860acd3-a834-0fa2-e807-8a744147e792
 ---
