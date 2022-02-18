@@ -24,7 +24,7 @@ _Principles of Automatic Control_ is a junior-level classical control class that
 
 While most students will enter the aerospace engineering field, few will work specifically in control engineering. This course will give students an awareness of control systems so they can collaborate with those in the field.
 
-{{\< anchor "insights" >}}{{\< /anchor >}}
+{{< anchor "insights" >}}{{< /anchor >}}
 
 ## Instructor Insights
 
@@ -32,7 +32,7 @@ _Peer inside the recitation of Prof. Steven Hall’s classical control class and
 
 _In this Instructor Insights section, Prof. Hall introduces his active learning recitations and explains how active learning techniques promote deeper conceptual understanding. The approach helps him be a more responsive teacher while fostering student engagement._
 
-{{\< quote "It really is a chance for students to understand what they know and what they don't know and to exercise the skills that they have learned in the class." "— Prof. Steven Hall" >}}
+{{< quote "It really is a chance for students to understand what they know and what they don't know and to exercise the skills that they have learned in the class." "— Prof. Steven Hall" >}}
 
 {{< resource fd29e920-25eb-b341-3cb4-0be7d91eadc4 >}}
 
@@ -40,10 +40,10 @@ _In this video, Prof. Hall offers a window into his classroom and introduces the
 
 In following pages, Prof. Hall discusses specific aspects of how and why he uses active learning in 16.06 recitations:
 
-- \[Acclimating Students to Active Learning\]({{\< baseurl >}}/pages/instructor-insights/acclimating-students)
-- \[Adapting the Classroom for Active Learning\]({{\< baseurl >}}/pages/instructor-insights/adapting-the-classroom-for-active-learning)
-- \[The Advantages of Active Learning\]({{\< baseurl >}}/pages/instructor-insights/the-advantages-of-active-learning)
-- \[The Experience of Teaching an Active Learning Recitation\]({{\< baseurl >}}/pages/instructor-insights/the-experience-of-teaching)
+- [Acclimating Students to Active Learning]({{< baseurl >}}/pages/instructor-insights/acclimating-students)
+- [Adapting the Classroom for Active Learning]({{< baseurl >}}/pages/instructor-insights/adapting-the-classroom-for-active-learning)
+- [The Advantages of Active Learning]({{< baseurl >}}/pages/instructor-insights/the-advantages-of-active-learning)
+- [The Experience of Teaching an Active Learning Recitation]({{< baseurl >}}/pages/instructor-insights/the-experience-of-teaching)
 
 ## Curriculum Information
 
@@ -61,11 +61,11 @@ In following pages, Prof. Hall discusses specific aspects of how and why he uses
 
 Every fall
 
-{{\< anchor "studentinfo" >}}{{\< /anchor >}}
+{{< anchor "studentinfo" >}}{{< /anchor >}}
 
 ## Student Information
 
-!\[16-06\_stat-students.png\]({{\< resource\_file e3b05143-0327-ca4b-cd11-3e7ef740bf41 >}})
+{{< resource e3b05143-0327-ca4b-cd11-3e7ef740bf41 >}}
 
 ### Breakdown by Year
 
@@ -83,7 +83,7 @@ Mostly aerospace engineering students with a few mechanical engineering students
 
 Twenty for each recitation session to promote the right balance between student engagement and individualized instruction
 
-{{\< anchor "studenttime" >}}{{\< /anchor >}}
+{{< anchor "studenttime" >}}{{< /anchor >}}
 
 ## How Student Time Was Spent
 
@@ -92,14 +92,14 @@ During an average week, students were expected to spend 12 hours on the course, 
 ## Lecture
 
 - Mandatory attendance, three one-hour lectures each week
-- 37 \[lecture sessions\]({{\< baseurl >}}/pages/lecture-notes) total
+- 37 [lecture sessions]({{< baseurl >}}/pages/lecture-notes) total
 - Professor used chalkboard to explain problems and concepts
 - In-class activities included concept questions
 
 ## Recitation
 
 - Mandatory attendance once a week at an hour long recitation
-- 13 active learning \[recitations\]({{\< baseurl >}}/pages/recitations) total
+- 13 active learning [recitations]({{< baseurl >}}/pages/recitations) total
 - Two sections of approximately 20 students
 - One to two problems were tackled in class
 - Pairs of students worked collectively on problems at the board with guidance from the professor and TA circling the room
@@ -107,4 +107,4 @@ During an average week, students were expected to spend 12 hours on the course, 
 
 ## Out of Class
 
-- Time divided between weekly \[problem sets\]({{\< baseurl >}}/pages/assignments) and material review
+- Time divided between weekly [problem sets]({{< baseurl >}}/pages/assignments) and material review
