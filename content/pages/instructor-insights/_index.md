@@ -40,10 +40,10 @@ _In this video, Prof. Hall offers a window into his classroom and introduces the
 
 In following pages, Prof. Hall discusses specific aspects of how and why he uses active learning in 16.06 recitations:
 
-- [Acclimating Students to Active Learning]({{< baseurl >}}/pages/instructor-insights/acclimating-students)
-- [Adapting the Classroom for Active Learning]({{< baseurl >}}/pages/instructor-insights/adapting-the-classroom-for-active-learning)
-- [The Advantages of Active Learning]({{< baseurl >}}/pages/instructor-insights/the-advantages-of-active-learning)
-- [The Experience of Teaching an Active Learning Recitation]({{< baseurl >}}/pages/instructor-insights/the-experience-of-teaching)
+- {{< resource_link f46b110e-9a78-a8d5-ca37-c10c7b0c9f8c "Acclimating Students to Active Learning" >}}
+- {{< resource_link d2ea3eef-8a74-2079-83de-a78edd2c0d0e "Adapting the Classroom for Active Learning" >}}
+- {{< resource_link 5e0124de-09dd-c33f-d814-26341e08fa9d "The Advantages of Active Learning" >}}
+- {{< resource_link 5b3694e8-81dd-d2ff-d659-bba0e4b39f24 "The Experience of Teaching an Active Learning Recitation" >}}
 
 ## Curriculum Information
 
@@ -92,14 +92,14 @@ During an average week, students were expected to spend 12 hours on the course, 
 ## Lecture
 
 - Mandatory attendance, three one-hour lectures each week
-- 37 [lecture sessions]({{< baseurl >}}/pages/lecture-notes) total
+- 37 {{< resource_link 146eb6f8-5138-3842-1748-ea1b6952187a "lecture sessions" >}} total
 - Professor used chalkboard to explain problems and concepts
 - In-class activities included concept questions
 
 ## Recitation
 
 - Mandatory attendance once a week at an hour long recitation
-- 13 active learning [recitations]({{< baseurl >}}/pages/recitations) total
+- 13 active learning {{< resource_link 1be81c0a-758a-a999-1f4d-0017f0104003 "recitations" >}} total
 - Two sections of approximately 20 students
 - One to two problems were tackled in class
 - Pairs of students worked collectively on problems at the board with guidance from the professor and TA circling the room
@@ -107,4 +107,4 @@ During an average week, students were expected to spend 12 hours on the course, 
 
 ## Out of Class
 
-- Time divided between weekly [problem sets]({{< baseurl >}}/pages/assignments) and material review
+- Time divided between weekly {{< resource_link be330945-da52-300c-5fc6-789748c1abfb "problem sets" >}} and material review
