@@ -35,7 +35,8 @@
   },
   "learning_resource_types": [
     "Lecture Notes",
-    "Problem Sets"
+    "Problem Sets",
+    "Instructor Insights"
   ],
   "site_uid": "eedcb9ff-22c1-4613-a044-4307722926bc",
   "title": "Course Metadata"
