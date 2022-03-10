@@ -49,8 +49,8 @@ In following pages, Prof. Hall discusses specific aspects of how and why he uses
 
 ### Prerequisites
 
-- [16.01-16.04 _Unified Engineering_](/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/)
-- [18.03/18.034 _Differential Equations_](/courses/18-03-differential-equations-spring-2010/)
+- [16.01-16.04 _Unified Engineering_](/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006)
+- [18.03/18.034 _Differential Equations_](/courses/18-03-differential-equations-spring-2010)
 
 ### Requirements Satisfied
 
@@ -77,7 +77,7 @@ Mostly aerospace engineering students with a few mechanical engineering students
 
 ### Typical Student Background
 
-[16.01-16.04 _Unified Engineering I-IV_](/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/), but a background in [18.03/18.034 _Differential Equations_](/courses/18-03-differential-equations-spring-2010/) and some dynamics ([2.003 _Engineering Dynamics_](/courses/2-003sc-engineering-dynamics-fall-2011/)) and signals work ([6.003 _Signals and Systems_](/courses/6-003-signals-and-systems-fall-2011/)) is sufficient
+[16.01-16.04 _Unified Engineering I-IV_](/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006), but a background in [18.03/18.034 _Differential Equations_](/courses/18-03-differential-equations-spring-2010) and some dynamics ([2.003 _Engineering Dynamics_](/courses/2-003sc-engineering-dynamics-fall-2011)) and signals work ([6.003 _Signals and Systems_](/courses/6-003-signals-and-systems-fall-2011)) is sufficient
 
 ### Ideal Class Size
 
