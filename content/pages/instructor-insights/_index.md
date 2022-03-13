@@ -1,5 +1,6 @@
 ---
 content_type: page
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
@@ -26,7 +27,7 @@ While most students will enter the aerospace engineering field, few will work sp
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-## Instructor Insights
+## Instructor Interview
 
 _Peer inside the recitation of Prof. Steven Hall’s classical control class and you’ll see the entire class up on their feet actively engaged in working out problems. Unlike conventional classrooms where the instructor leads the class and demonstrates how to solve a problem, students in 16.06 openly work and struggle with the recitation problems together. They learn by doing with Prof. Hall stepping in to coach as needed._
 
@@ -67,6 +68,10 @@ Every fall
 
 {{< resource e3b05143-0327-ca4b-cd11-3e7ef740bf41 >}}
 
+### Enrollment
+
+38 students
+
 ### Breakdown by Year
 
 Mostly first semester juniors with the occasional graduate student
@@ -89,14 +94,14 @@ Twenty for each recitation session to promote the right balance between student 
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-## Lecture
+### Lecture
 
 - Mandatory attendance, three one-hour lectures each week
 - 37 {{% resource_link 146eb6f8-5138-3842-1748-ea1b6952187a "lecture sessions" %}} total
 - Professor used chalkboard to explain problems and concepts
 - In-class activities included concept questions
 
-## Recitation
+### Recitation
 
 - Mandatory attendance once a week at an hour long recitation
 - 13 active learning {{% resource_link 1be81c0a-758a-a999-1f4d-0017f0104003 "recitations" %}} total
@@ -105,6 +110,6 @@ During an average week, students were expected to spend 12 hours on the course, 
 - Pairs of students worked collectively on problems at the board with guidance from the professor and TA circling the room
 - Group work concluded and class reconvened with the professor working through the problem and highlighting common problems
 
-## Out of Class
+### Out of Class
 
 - Time divided between weekly {{% resource_link be330945-da52-300c-5fc6-789748c1abfb "problem sets" %}} and material review
