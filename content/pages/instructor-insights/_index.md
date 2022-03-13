@@ -66,8 +66,6 @@ Every fall
 
 ## Student Information
 
-{{< resource e3b05143-0327-ca4b-cd11-3e7ef740bf41 >}}
-
 ### Enrollment
 
 38 students
