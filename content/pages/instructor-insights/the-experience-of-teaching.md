@@ -28,4 +28,4 @@ I do think for more advanced classes like senior-level subjects and graduate sub
 
 {{< resource uuid="3f8e2752-2218-af4d-6a5f-aacde9d1a1b8" >}}
 
-`<figcaption> In this video, Prof. Steven Hall offers suggestions on how to prepare for active learning recitations and when to intervene during problem solving sessions. He explains the joys and surprises of coaching students rather than lecturing to them.</figcaption>`
+ In this video, Prof. Steven Hall offers suggestions on how to prepare for active learning recitations and when to intervene during problem solving sessions. He explains the joys and surprises of coaching students rather than lecturing to them.
