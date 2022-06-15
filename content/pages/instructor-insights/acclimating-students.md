@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This instructor insights page describes how Prof. Steven Hall introduces
+  students to active learning including a video interview.
 draft: false
 layout: instructor_insights
 learning_resource_types: []
