@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This instructor insights page offers details about the classroom resources
+  Prof. Steven Hall recommends and ways to tailor your room for active learning.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
