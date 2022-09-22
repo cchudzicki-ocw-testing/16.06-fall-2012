@@ -5,6 +5,7 @@ file: /courses/16-06-principles-of-automatic-control-fall-2012/e2197ab14e787caa2
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection

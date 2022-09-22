@@ -5,6 +5,7 @@ file: /courses/16-06-principles-of-automatic-control-fall-2012/a18cec257b71fc8eb
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
